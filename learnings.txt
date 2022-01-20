@@ -1,0 +1,17 @@
+navbar er moddhe img ta khuje bujhe boshaite hobe
+deleted the unwanted form
+nav er moddhe container fluid mara thake...setake container kora lagse
+header er vetore puro website er main message er jinish potro gula rakhte hoy
+mouse slider er upore thakle slide hobe na
+button class diye oder button use korsi
+vertically center = align items center
+card er khetre seita basai korlam zeta te lekha zoto boro soto hok na keno btn soman thakte hobe
+alada vabe column e khub proyojon sara responsive na kore row class er vetor responsive korai best
+bootstrap er moddhe tader set kora value er pashe important lekha thake ...zar karone ami tader class name use kore value change korle amar ta apply hobe na..
+to zodi amar ta apply koraite cai tahole nanan vabe korano zay...zemon..ami amar change kora value er pashe zodi important kotha ta likhe dei tahole hobe but eta recommended na.
+arekta way holo nijer class toiri kore sekhane nijer mon moto value diye sei class html er vetore diye deya
+inspect e giyeo color er oi pen ta enable kore zekono color er upor niye gele sei color er hex code paoya zay
+eksathe dhore kisu tag ke zemon ase omnei zodi cai majhe nite flex er maddhome tahole sei sob gulo tag ke ekta div er moddhe rakhte hobe tahole r row akare hobe 
+vertically center korar jonno jonno ekta height lage must
+nav e fixed top marle nav puro width niye ney
+form control class diye input ta joss lagse
